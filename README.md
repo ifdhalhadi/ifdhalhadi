@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently final year student majoring in Informatics at Telkom University
 <!--
 **ifdhalhadi/ifdhalhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
